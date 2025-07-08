@@ -3,7 +3,7 @@
 [![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0+-blue.svg)](https://www.autohotkey.com/)
 [![License: MIT](https://img.shields.io/badge/License-GNU-yellow.svg)](LICENSE)
 
-A natural scrolling Fix for windows. Act like MacOS, but left wheel zoom (ctrl+wheel) direction unchanged.
+A natural scrolling Fix for windows. Act like mouse in Mac, but left wheel zoom (ctrl+wheel) direction unchanged.
 It‘s an AutoHotkey script that reverses your mouse wheel scrolling direction while preserving standard Ctrl+scroll zoom behavior. Perfect for users who prefer natural scrolling like macOS trackpads.
 
 ## Why This Exists
